@@ -1,6 +1,6 @@
 numpy
 opencv_contrib_python
-opencv_python
+opencv-python-headless
 streamlit
 streamlit_drawable_canvas
 tensorflow
